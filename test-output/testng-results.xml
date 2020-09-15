@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22657" started-at="2020-09-15T01:46:48Z" finished-at="2020-09-15T01:47:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22657" started-at="2020-09-15T01:46:48Z" finished-at="2020-09-15T01:47:10Z">
+      <class name="com.xx.test.LoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.xx.test.LoginTest@61a52fbd]" name="init" is-config="true" duration-ms="10839" started-at="2020-09-15T09:46:48Z" finished-at="2020-09-15T09:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.xx.test.LoginTest@61a52fbd]" name="login" duration-ms="11173" started-at="2020-09-15T09:46:59Z" finished-at="2020-09-15T09:47:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeFirefox()[pri:0, instance:com.xx.test.LoginTest@61a52fbd]" name="closeFirefox" is-config="true" duration-ms="632" started-at="2020-09-15T09:47:10Z" finished-at="2020-09-15T09:47:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFirefox -->
+      </class> <!-- com.xx.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

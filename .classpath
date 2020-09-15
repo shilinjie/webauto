@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/jcommander.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/mysql-connector-java-5.1.30.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/selenium-api-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/selenium-firefox-driver-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/selenium-java-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/selenium-remote-driver-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/selenium-support-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/Auto_eg/lib/testng.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

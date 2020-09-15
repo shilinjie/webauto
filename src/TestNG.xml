@@ -1,0 +1,14 @@
+ <suite name="TestNG"  parallel="false">
+     <test name="TestNG" preserve-order="true">
+         <classes>
+             
+              <class name="com.xx.LoginTest"/>
+     
+         </classes>
+         
+         <listeners>
+ 			<listener class-name="org.uncommons.reportng.HTMLReporter" />
+ 		 </listeners>
+ 		 
+       </test>
+</suite>
